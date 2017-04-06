@@ -1,0 +1,5 @@
+fuzzywuzzy
+wordsegment
+flask
+flask_restful
+flask-cors
